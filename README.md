@@ -1,16 +1,15 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Noah Vincze, data scientist building AI agents, ML systems and the evals that keep them honest." src="assets/header-light.svg" width="100%">
+</picture>
 
-<!--
-**NoahVincze/NoahVincze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+noah = DataScientist(
+    now="ML & AI @ Bayer",            # data democratization through agentic enablement
+    builds=["AI agents", "ML systems", "evals"],
+    stack=["Python", "PyTorch", "LLMs", "TypeScript", "React"],
+    trained_on="B.Sc. Business Informatics, Bayer & FHDW",
+)
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/noah-vincze/) · [Email](mailto:noah-vincze@gmx.de)
