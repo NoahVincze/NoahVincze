@@ -12,4 +12,4 @@ noah = DataScientist(
 )
 ```
 
-[LinkedIn](https://www.linkedin.com/in/noah-vincze/) · [Email](mailto:noah-vincze@gmx.de)
+[LinkedIn](https://www.linkedin.com/in/noah-vincze/)
